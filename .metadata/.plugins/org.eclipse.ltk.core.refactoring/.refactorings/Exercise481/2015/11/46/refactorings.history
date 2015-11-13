@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.marithic.chapter48.Weight.java&apos; to &apos;Exercise1_3.java&apos;&#x0D;&#x0A;- Original project: &apos;Exercise481&apos;&#x0D;&#x0A;- Original element: &apos;com.marithic.chapter48.Weight.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.marithic.chapter48.Exercise1_3.java&apos;" description="Rename compilation unit &apos;Weight.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.marithic.chapter48{Weight.java" name="Exercise1_3.java" references="false" stamp="1447253953489" version="1.0"/>
+</session>
